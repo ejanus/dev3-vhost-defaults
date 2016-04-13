@@ -1,6 +1,6 @@
-# Dev2 - Default VHost Files
+# Dev3 - Default VHost Files
 
-This repository contains all the default VHost files that the Dev2 [scripts](https://github.com/ejanus/dev3-scripts/wiki) will use to handles sites.
+This repository contains all the default VHost files that the Dev3 [scripts](https://github.com/ejanus/dev3-scripts/wiki) will use to handles sites.
 
 If you have an older copy of the Dev2 prior to Jan 6th, 2016 you need to follow these instructions: 
 
