@@ -19,7 +19,7 @@ Done!
 
 ***
 
-## Dev2 Links
+## Dev3 Links
 
 * [Setup & Installation](https://github.com/ejanus/dev3/wiki)
 * [Site management scripts](https://github.com/ejanus/dev3-scripts)
